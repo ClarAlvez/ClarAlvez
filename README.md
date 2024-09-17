@@ -1,4 +1,5 @@
-# Hello, world! I'm Clara Alves! 👋😉
+# Hello, Devs! I'm Clara Alves~ ​🌟​🍃​
+### You can call me "Cadzz" ​🌸​
 ### Learning how to develop and searching for new areas.
 
 ## 🚀 About Me
@@ -41,9 +42,8 @@ Just like technology never stops advancing, I **never stop learning**. While I s
 
 You can reach out to me:
 - Via email at clara_asantos@outlook.com!
-- Via instagram at @cadzz_yt!
-- Via twitter at @cadzz_yt!
-
+- Via instagram at [cadzz_yt](https://www.instagram.com/cadzz_yt?igsh=cTV3cmxlcWsza2Fq)!
+  
 ## ✨ Fun Facts
 
 - 🍲 I am a lover of **cooking** and enjoy finding out new recipes and ways to cook!
