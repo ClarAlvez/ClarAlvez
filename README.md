@@ -5,9 +5,9 @@
 
 - 🌈 I'm a technology enthusiast and passionate developer with a love for ui, ux and cybersecurity.<br>
 
-- 🔗 I enjoy working on front-end.<br>
+- ⭐​ I enjoy working on front-end.<br>
 
-- 🤯 I love to explore the limits of programming and to discover new concepts, as well as creative ways of solving any given problems!
+- 🌠​ I love to explore the limits of programming and to discover new concepts, as well as creative ways of solving any given problems!
 
 ## 💻 Technologies
 
@@ -32,8 +32,8 @@
 
 ## 🔭 Projects
 
-- 🎨 [Cajuice](https://github.com/JoaoCussolim/Cajuice): A game website with some games made on canvas! [Try it out!](https://cajuice.netlify.app/)
-- 🪐 [Lucky Journey](https://github.com/JoaoCussolim/lestGoGambling): Our second game project using canvas! [Coming soon~]
+- 🥭​ [Cajuice](https://github.com/JoaoCussolim/Cajuice): A game website with some games made on canvas! [Try it out!](https://cajuice.netlify.app/)
+- ​🎮​ [Lucky Journey](https://github.com/JoaoCussolim/lestGoGambling): Our second game project using canvas! [Coming soon~]
 
 - I still have a lot more comming up soon 🤫!
 
@@ -43,12 +43,16 @@ Just like technology never stops advancing, I **never stop learning**. While I s
 
 ## 📫 How to Reach Me
 
-You can reach out to me via email at [clara_asantos@outlook.com]!
+You can reach out to me:
+- Via email at clara_asantos@outlook.com!
+- Via instagram at @cadzz_yt!
+- Via twitter at @cadzz_yt!
 
 ## ✨ Fun Facts
 
 - 🍲 I am a lover of **cooking** and enjoy finding out new recipes and ways to cook!
 - 📖 I have a great love for **storytelling** and creating stories. I love reading books and my favorite is "Em Algum Lugar nas Estrelas"!
+- 🌊​ I have a big passion for beachs and dream about living close to sea!
 
 ## 💕 Thanks!
 
