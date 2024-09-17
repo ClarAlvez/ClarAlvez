@@ -29,7 +29,7 @@
 
 ## 🔭 Projects
 
-- 🥭​ [Cajuice](https://github.com/JoaoCussolim/Cajuice): A game website with some games made on canvas! [Try it out!](https://cajuice.netlify.app/)
+- 🥭​ [Cajuice](https://github.com/JoaoCussolim/Cajuice): A game website with some games made on canvas by me and my friends! [Try it out!](https://cajuice.netlify.app/)
 - ​🎮​ [Lucky Journey](https://github.com/JoaoCussolim/lestGoGambling): Our second game project using canvas! [Coming soon~]
 
 - I still have a lot more comming up soon 🤫!
