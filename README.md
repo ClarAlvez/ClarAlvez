@@ -6,7 +6,7 @@
 
 - 🌈 I'm a technology enthusiast and passionate developer with a love for ui, ux and cybersecurity.<br>
 
-- ⭐​ I enjoy working on front-end.<br>
+- ⭐​ I enjoy working on back-end.<br>
 
 - 🌠​ I love to explore the limits of programming and to discover new concepts, as well as creative ways of solving any given problems!
 
