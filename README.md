@@ -41,7 +41,8 @@
 ## 🔭 Projects
 
 - 🥭​ [Cajuice](https://github.com/JoaoCussolim/Cajuice): A game website with some games made on canvas by me and my friends! [Try it out!](https://cajuice.netlify.app/)
-- ​🎮​ [Lucky Journey](https://github.com/JoaoCussolim/lestGoGambling): Our second game project using canvas! [Coming soon~]
+- 💬​ [CajuTalk](https://github.com/JoaoCussolim/CajuTalk): A user chat rooms app cashew fruit themed colors!
+- 🎮​ [CajuCards](https://github.com/JoaoCussolim/CajuCards): A game of cards like clash royale + team fight tatics! [Coming soon~]
 
 - I still have a lot more comming up soon 🤫!
 
@@ -60,14 +61,6 @@ You can reach out to me:
 - 🍲 I am a lover of **cooking** and enjoy finding out new recipes and ways to cook!
 - 📖 I have a great love for **storytelling** and creating stories. I love reading books and my favorite is "Em Algum Lugar nas Estrelas"!
 - 🌊​ I have a big passion for beachs and dream about living close to sea!
-
-## 📱​ My GitHub
-
-<div>
-<a href="https://github.com/ClarAlvez">
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClarAlvez&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ClarAlvez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ## 💕 Thanks!
 
