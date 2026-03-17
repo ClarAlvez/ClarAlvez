@@ -52,7 +52,6 @@
 ## 🔭 Projects
 
 - 🥭​ [Cajuice](https://github.com/JoaoCussolim/Cajuice): A game website with some games made on canvas by me and my friends! [Try it out!](https://cajuice.vercel.app/)
-- 💬​ [CajuTalk](https://github.com/JoaoCussolim/CajuTalk): A user chat rooms app cashew fruit themed colors!
 - 🎮​ [CajuCards](https://github.com/JoaoCussolim/CajuCards): A game of cards like clash royale + team fight tatics!
 - 🎧​​ [See2Sound](https://github.com/ClarAlvez/See2Sound_Backend): An AI system that automatically generates contextual audio descriptions for visual media! [Coming soon~]
 
