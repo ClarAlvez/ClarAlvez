@@ -70,7 +70,7 @@ You can reach out to me:
 ## ✨ Fun Facts
 
 - 🍲 I am a lover of **cooking** and enjoy finding out new recipes and ways to cook!
-- 📖 I have a great love for **storytelling** and creating stories. I love reading books and my favorite is "Em Algum Lugar nas Estrelas"!
+- 📖 I have a great love for **storytelling** and creating stories. I love reading books!
 - 🌊​ I have a big passion for beachs and dream about living close to sea!
 
 ## 💕 Thanks!
