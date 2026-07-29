@@ -61,6 +61,10 @@
 
 Just like technology never stops advancing, I **never stop learning**. While I study what my school provides me, I also like to explore everything I can. Currently, I'm interested in learning more about BackEnd development and Cybersecurity!
 
+## 📈​ Languages
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ClarAlvez&layout=compact&langs_count=6&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=ClarAlvez&layout=compact&langs_count=6&theme=tokyonight)
+
 ## 📫 How to Reach Me
 
 You can reach out to me:
