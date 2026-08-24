@@ -4,9 +4,9 @@
 
 ## 🚀 About Me
 
-- 🌈 I'm a technology enthusiast and passionate developer with a love for ui, ux and cybersecurity.<br>
+- 🌈 I'm a technology enthusiast and passionate developer with a love for ui, ux, ai development and cybersecurity.<br>
 
-- ⭐​ I enjoy working on back-end and design.<br>
+- ⭐​ I enjoy working on ai development.<br>
 
 - 🌠​ I love to explore the limits of programming and to discover new concepts, as well as creative ways of solving any given problems!
 
@@ -32,7 +32,6 @@
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
 
 - #### **APIs & Communication & Embedded Systems & IoT:**
   ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -92,6 +91,7 @@ Just like technology never stops advancing, I **never stop learning**. While I s
 You can reach out to me:
 - Via email at clara_asantos@outlook.com!
 - Via instagram at [cadzz_yt](https://www.instagram.com/cadzz_yt?igsh=cTV3cmxlcWsza2Fq)!
+- Via linkedin at [claralvez](https://www.linkedin.com/in/claralvez/)!
   
 ## ✨ Fun Facts
 
